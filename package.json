@@ -1,0 +1,31 @@
+{
+  "name": "facebookalbumexplorer",
+  "version": "0.0.1",
+  "description": "Facebook Album Explorer plugin for VueJs",
+  "main": "./dist/vue-facebook-album-explorer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Stanley",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.11.0",
+    "babel-runtime": "^6.9.2",
+    "css-loader": "^0.28.9",
+    "pug": "^2.0.0-rc.4",
+    "rimraf": "^2.6.1",
+    "vue": "^2.2.1",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^11.1.4",
+    "vue-style-loader": "^2.0.3",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "1.13.1",
+    "webpack-merge": "^4.1.0"
+  }
+}
