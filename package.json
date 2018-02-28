@@ -1,5 +1,5 @@
 {
-  "name": "facebookalbumexplorer",
+  "name": "vuefacebookalbumexplorer",
   "version": "0.0.1",
   "description": "Facebook Album Explorer plugin for VueJs",
   "main": "./dist/vue-facebook-album-explorer.min.js",
